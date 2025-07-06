@@ -12,7 +12,7 @@
 
 ## 使用方式
 
-1. 下載 `DisplayStrings_zh_TW.properties` 與 [`Lizzie.0.7.4.Windows.x64.GPU.zip
+1. 下載 [`DisplayStrings_zh_TW.properties`](https://github.com/EthanPan-code/Lizzie-Traditional-Chinese-zh-_TW-Interface-Translation/archive/refs/heads/main.zip) 與 [`Lizzie.0.7.4.Windows.x64.GPU.zip
 `](https://github.com/featurecat/lizzie/releases/download/0.7.4/Lizzie.0.7.4.Windows.x64.GPU.zip)
 2. 使用 [7-Zip](https://www.7-zip.org/) 或其他壓縮工具打開 `lizzie.jar`
    
