@@ -18,12 +18,12 @@
    
 ![7-Zip](pictures/7-Zip.jpg)
 
-4. 進入 `I10n` 資料夾
+3. 進入 `I10n` 資料夾
    
 ![jar](pictures/jar.jpg)
 ![jar](pictures/I10n_before.jpg)
 
-6. 將`DisplayStrings_zh_TW.properties`拖進視窗中 `i10` 資料夾裡
+4. 將`DisplayStrings_zh_TW.properties`拖進視窗中 `i10` 資料夾裡
    
 ![jar](pictures/I10n_after.jpg)
 
