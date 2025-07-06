@@ -27,5 +27,4 @@
    
 ![jar](pictures/I10n_after.jpg)
 
-- 說明：開啟Lizzie時會自動切換到與系統相同的語言，若`I10n`資料夾中沒有與系統相同的語言則會使用英文"# Lizzie-Traditional-Chinese-zh-_TW-Interface-Translation" 
-"# Lizzie-Traditional-Chinese-zh-_TW-Interface-Translation" 
+- 說明：開啟Lizzie時會自動切換到與系統相同的語言，若`I10n`資料夾中沒有與系統相同的語言則會使用英文
